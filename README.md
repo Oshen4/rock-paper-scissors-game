@@ -5,4 +5,4 @@ A simple Python project where you play Rock, Paper, Scissors against the compute
 ## How to Play
 1. Run the program with:
    ```bash
-   python rock_paper_scissors.py
+   python RPS_game.py
